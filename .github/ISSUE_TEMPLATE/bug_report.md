@@ -2,14 +2,15 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
 **Describe the bug**
 A clear and concise description of what the bug is.
-Specify in particular if the bug concerns a specific pipeline or the web platform
+Specify in particular if the bug concerns a specific pipeline or the web platform.
+If the bug concerns a pipeline, specify the pipeline version.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
